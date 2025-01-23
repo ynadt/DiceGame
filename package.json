@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.4.1",
+    "cli-color": "^2.0.4",
+    "readline-sync": "^1.4.10"
+  }
+}
