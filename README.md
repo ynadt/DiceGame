@@ -1,6 +1,9 @@
 # DiceGame
 A console-based dice game.
 
+[YouTube demo](https://youtu.be/PpY4WOsc-S4)
+
+
 ## How to Run the Game:
 
 1. **Prerequisites**:  
